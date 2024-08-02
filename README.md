@@ -63,12 +63,6 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-<p align="left">Hello World!!</p>
-
-###
-
-<img src="https://raw.githubusercontent.com/RaizinRaizen/RaizinRaizen/output/snake.svg" alt="Snake animation" />
-
 ###
 
 ###
