@@ -1,10 +1,18 @@
 <h2 align="left">Ola!! Me chame de Raizin ou Raizen! 👋 </h2>
 
 ###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raizinraizen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raizinraizen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
-</div>
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <img src="https://github-readme-stats.vercel.app/api?username=raizinraizen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph" />
+    </td>
+    <td style="text-align: center;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raizinraizen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
+    </td>
+      <img height="150" src="https://media1.tenor.com/images/9e3a2bb2e96f3eb32917b1d9d8d5a471/tenor.gif?itemid=12772957" alt="omori gif"/>
+  </tr>
+</table>
+
 
 ###
 
