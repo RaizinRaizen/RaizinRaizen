@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <img align="right" height="150" src="https://media1.tenor.com/m/JLDCm5SOMt0AAAAC/miserable-omori.gif"  />
 
-###
+##
 
 <div align="left">
   <h3> 📚 Estudando: </h3>
