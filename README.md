@@ -1,4 +1,4 @@
-<h2 align="left">Ola!! Me chame de Raizin ou Raizen! 👋 </h2>
+<h2 align="left">Ola!! Me chame de Raizin ou Raizen!</h2>
 
 ###
 <table>
