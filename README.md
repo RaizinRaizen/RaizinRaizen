@@ -1,4 +1,6 @@
-<h2 align="left">Ola!! Me chame de Raizin ou Raizen!</h2>
+<h2 align="left">Ola!! Me chame de Raizin ou Raizen! <img width="13" />
+  <img src="https://cdn.discordapp.com/attachments/1196644181817446422/1278116986789826664/niko_surprised.PNG?ex=66cfa2b3&is=66ce5133&hm=34f82c4e458b7dd8b85a3f1612d3088fc3e06cde6d4e2fc9442c63bfb23f634c&" height="30" alt="python logo"  />
+</h2>
 
 ###
 <table>
