@@ -11,7 +11,7 @@
     <td style="text-align: center;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raizinraizen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
     </td>
-      <img height="150" src="https://media1.tenor.com/images/9e3a2bb2e96f3eb32917b1d9d8d5a471/tenor.gif?itemid=12772957" alt="omori gif"/>
+      <img height="150" src="https://static.wikia.nocookie.net/fcs-vs-battle/images/5/5d/OneShot_Niko_Vector.png/revision/latest?cb=20200425171527" alt="omori gif"/>
   </tr>
 </table>
 
