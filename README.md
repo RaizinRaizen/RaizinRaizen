@@ -6,10 +6,10 @@
 <table>
   <tr>
     <td style="text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api?username=raizinraizen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph" />
+      <img src="https://github-readme-stats.vercel.app/api?username=raizinraizen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=moltack&locale=en&hide_border=false" height="150" alt="stats graph" />
     </td>
     <td style="text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raizinraizen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raizinraizen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=moltack&hide_border=false" height="150" alt="languages graph" />
     </td>
       <img height="150" src="https://media.discordapp.net/attachments/1196644181817446422/1369794774663434300/raizin_yaay.png?ex=6893268b&is=6891d50b&hm=ae8fbdb1a7e27dd251f44d04546745b705ebedfa3e0625ae51b3093b07c1f42f&=&format=webp&quality=lossless&width=801&height=789" alt="raizinraizen oc"/>
   </tr>
